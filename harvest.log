@@ -1,0 +1,30 @@
+touch tshark_000100.txt
+touch tshark_000101.txt
+touch tshark_000102.txt
+touch tshark_000103.txt
+touch tshark_000104.txt
+touch tshark_000100.txt
+touch tshark_000101.txt
+touch tshark_000102.txt
+touch tshark_000103.txt
+touch tshark_000104.txt
+cat lst8a.txt
+cat lst8a.txt
+cat lst8a.txt
+cat lst8a.txt
+cat lst8a.txt
+cat lst8a.txt|./cpipe
+cat lst8a.txt|./cpipe
+cat lst8a.txt|./cpipe
+cat lst8a.txt|./cpipe
+cat lst8a.txt|./cpipe
+sleep(10)
+sleep(10)
+sleep(10)
+sleep(10)
+sleep(10)
+cat lst8a.txt|./cpipe
+cat lst8a.txt|./cpipe
+cat lst8a.txt|./cpipe
+cat lst8a.txt|./cpipe
+cat lst8a.txt|./cpipe

@@ -1,0 +1,8 @@
+The operational cule for the tshark mac processing is
+
+1) Run tshark for  n seconds and exclude static macs
+2) Print out resultant macs with time stamps
+3) Optionally write to mysql with location tag
+4) Comparison of mac with next station, calculate delta time
+5) Plot matplotlib
+`

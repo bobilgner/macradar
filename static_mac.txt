@@ -1,0 +1,14 @@
+Apple_1e:10:61  1
+de:ef:09:d7:df:95  7
+Hewle  1
+HewlettP_eb:2f:b4  884
+HuaweiTe_67:ca:10  2
+IntelCor_af:0b:c7  3
+Raspberr_8f:38:84  138
+Routerbo_6c:73:df  2
+Routerbo_78:8f:23  4236
+Routerbo_78:8f:28  1113
+SamsungE_21:01:4d  16
+SamsungE_e4:be:8a  2553
+Tp-LinkT_0d:16:ce  109
+Tp-LinkT_85:bb:c9  2
